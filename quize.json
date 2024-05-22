@@ -1,0 +1,22 @@
+[
+    {"Question":"what the output: print(abs(-1))?","answer":"1"},
+	{"Question":"what the output: print(round(3.61,1))?","answer":"3.6"},
+	{"Question":"type the function to find the inverse l=[2,3,6]?","answer":"reverse(l)"},
+	{"Question":"write the appropriate instructions to find the largest value in l=[2,3,6]?","answer":"print(max(l))"},
+	{"Question":"write the appropriate instructions to find the smallest value in l=[2,3,6]?","answer":"print(min(l))"},
+	{"Question":"type the function to delete element(2) in l=[2,,3,6]?","answer":"del(2)"},
+	{"Question":"type the function to add the element(8) to l=[2,6]?","answer":"append(8)"},
+	{"Question":"type the function used to sum the elements in l=[2,3,6,8]?","answer":"sum(l)"},
+	{"Question":"type the function to find the number of characters s=python?","answer":"len(s)"},
+	{"Question":"type the function to write the string in uppercase letters s=python?","answer":"upper(s)"},
+	{"Question":"type the function to l=[8,4,2,10]?","answer":"l.sort()"},
+    {"Question":"type the function to convert (s=python) to list?","answer":"split(s)"},
+    {"Question":"write the appropriate instructions to see the dictionary keys?","answer":"dict.keys()"},
+    {"Question":"write the appropriate instructions to see the dictionary values?","answer":"dict.values()"},
+    {"Question":"what the output<< for i in range(0,11,2): print(i,end=',')?","answer":"0,2,4,6,8,10"},
+    {"Question":"what the output<< d=5+5*6+2**3/2 ?","answer":"39"},
+    {"Question":"what the output<< d=5>4 and 5<6 ?","answer":"true"},
+    {"Question":"what the output<< d=(9<22 and 1<3)or(5>8 or 33>5)?","answer":"true"},
+    {"Question":"what the output<< d=(10<52 or 10>5)and(25<60 and 22<20)?","answer":"false"},
+    {"Question":"what the output<< n='python'*2*3  print(n)?","answer":"pythonpythonpythonpythonpythonpython"}
+]
